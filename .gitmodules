@@ -1,0 +1,6 @@
+[submodule "Frontend-admin/frontend-admin"]
+	path = Frontend-admin/frontend-admin
+	url = https://github.com/zainali-balti/Frontend.git
+[submodule "Frontend-web/web-app"]
+	path = Frontend-web/web-app
+	url = https://github.com/zainali-balti/Frontend-webapp.git
